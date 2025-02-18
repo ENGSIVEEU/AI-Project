@@ -3,7 +3,7 @@
 ## Description
 This repository contains the code and models for the AI project.
 
-## Setup Instructions
+##Instructions
 1. Clone the repository:
    ```bash
   
