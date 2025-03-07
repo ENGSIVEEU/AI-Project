@@ -1,9 +1,3 @@
-# AI Project
+**Fake News Detection Project**  
 
-## Description
-This repository contains the code and models for the AI project.
-
-##Instructions
-1. Define the Problem
-   ```bash
-  
+The **Fake News Detection** project aims to classify news articles as real or fake using machine learning techniques. It leverages a dataset from **Kaggle**, containing labeled news articles, and applies **Natural Language Processing (NLP)** techniques to analyze text patterns. The project typically involves **data preprocessing** (removing stopwords, stemming, tokenization), **feature extraction** (TF-IDF, word embeddings), and **classification models** like **Logistic Regression, Naïve Bayes, Random Forest, or Deep Learning (LSTMs, CNNs, or Transformers)**. The goal is to build an accurate and reliable system that helps combat misinformation by automatically identifying deceptive content.
